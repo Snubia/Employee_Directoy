@@ -1,9 +1,7 @@
 # Employee_Directoy
 Employee directory application with React
 
-# NoteTaker
-
-_
+_ Created with the help of **_npx create-react-app_**, this employee directory app allows user to access and mange employees from a given API. User can search for an employee using their first or last name. User can also perform a search or classify employee by date of birth (older to yougest or vice vers ca), name or phone number by directly clicking on them from the header. 
 
 
 # Demo
@@ -29,25 +27,27 @@ _
 **Bootstrap**
 
 
-# API used: https://randomuser.me/api/?results=200&nat=u
+# API used: 
+https://randomuser.me/api/?results=200&nat=u
 
 
 
 
 # Links
 
-[deployed website]()
+Click on one of the links bellow to access the repository
+
+[deployed website on heroku]()
 
 
 [Github repository](https://github.com/Snubia/Employee_Directoy.git)
 
 
-# Contact Me
 
-**_for feedback, contributions or questions_**
+# For feedback, contributions or questions
 
-**Email:** nunubabila@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/sandrine-nubia-975aa2172/)
+[Github](https://github.com/Snubia)
 
 
