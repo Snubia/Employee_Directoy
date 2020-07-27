@@ -37,6 +37,7 @@ https://randomuser.me/api/?results=200&nat=u
 
 Click on one of the links bellow to access the repository
 
+
 [deployed website on heroku]()
 
 
@@ -48,6 +49,8 @@ Click on one of the links bellow to access the repository
 
 
 [Linkedin](https://www.linkedin.com/in/sandrine-nubia-975aa2172/)
+
+
 [Github](https://github.com/Snubia)
 
 
