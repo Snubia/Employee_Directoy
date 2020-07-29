@@ -38,7 +38,7 @@ https://randomuser.me/api/?results=200&nat=u
 Click on one of the links bellow to access the repository
 
 
-[deployed website on heroku]()
+[deployed website](https://snubia.github.io/User_Directory/)
 
 
 [Github repository](https://github.com/Snubia/Employee_Directoy.git)
